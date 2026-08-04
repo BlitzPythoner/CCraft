@@ -148,4 +148,14 @@ https://alex-bauknecht.itch.io/ccraft
 
 ---
 
+## Windows Security Notice
+
+Because CCraft and its Launcher are independently developed and digitally unsigned, Windows SmartScreen or Microsoft Defender may display a warning when launching the application.
+
+This is expected for unsigned software and does **not** necessarily indicate that the program is unsafe.
+
+If you downloaded CCraft from the official GitHub repository or itch.io page, you can safely allow the application to run.
+
+Future releases may include code signing once it becomes feasible.
+
 *"Sometimes the best way to learn how a game engine works is to accidentally write one."*
