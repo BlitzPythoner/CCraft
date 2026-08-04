@@ -1,2 +1,147 @@
 # CCraft
-CCraft is a small voxel sandbox game inspired by Alpha Minecraft. It is written from scratch in C using SDL2 and OpenGL, without using a game engine with the help auf AI.
+
+*A minimalist voxel sandbox game written completely in C.*
+
+---
+
+## About
+
+CCraft is a voxel sandbox game inspired by the early days of Minecraft, but built entirely from scratch without using a game engine with the help of AI.
+
+The project focuses on understanding how games actually work internally rather than relying on existing engines. Window management, rendering, world generation, chunk management, collision detection, raycasting, inventory systems, lighting and gameplay mechanics are implemented manually.
+
+The goal is not to create another Minecraft clone, but to build a clean, understandable voxel engine while learning low-level game programming.
+
+---
+
+## Features
+
+### World
+
+- Infinite procedural voxel world
+- Chunk-based terrain system
+- Multiple biomes
+- Cave generation
+- Trees and vegetation
+- Ore generation
+- Water and lava
+- Fire simulation
+- Falling blocks (sand & gravel)
+
+### Gameplay
+
+- Survival mode
+- Health system
+- Hunger system
+- Armor
+- Crafting
+- Furnace
+- Farming
+- Chests
+- Item drops
+- Mob spawning
+- Basic AI
+- Day/Night cycle
+- Weather effects
+- Lightning
+
+### Engine
+
+- Written in pure C
+- SDL2
+- Classic OpenGL renderer
+- Direct3D 9 renderer
+- First-person camera
+- Chunk mesh generation
+- Frustum culling
+- Raycasting
+- AABB collision detection
+- Asset integrity verification
+- Modular engine architecture
+
+---
+
+## Launcher
+
+CCraft comes with its own launcher featuring:
+
+- Automatic updates
+- Version management
+- File integrity verification
+- Installation management
+- Desktop and Start Menu shortcuts
+- Multiple game versions
+
+---
+
+## Controls
+
+| Key | Action |
+|------|--------|
+| W A S D | Move |
+| Mouse | Look around |
+| Left Click | Break block |
+| Right Click | Place block / Interact |
+| Space | Jump |
+| Shift | Sneak |
+| E | Inventory |
+| Esc | Pause Menu |
+
+*Controls can be changed
+
+---
+
+## Graphics
+
+CCraft supports two rendering backends.
+
+### OpenGL
+
+Recommended for modern hardware.
+
+- Better performance
+- Default renderer
+- Best compatibility on newer systems
+
+### Direct3D 9
+
+Designed for older Windows computers.
+
+Useful if OpenGL drivers are outdated or perform poorly.
+
+---
+
+## Building
+
+CCraft is developed on Windows using
+
+- C
+- MinGW
+- SDL2
+- OpenGL
+- Direct3D 9
+
+---
+
+## License
+
+All rights reserved.
+
+You may **not** redistribute, modify, re-upload or sell this project or its assets without permission.
+
+---
+
+## Author
+
+**Alex Bauknecht**
+aka. BlitzPYthoner
+
+GitHub:
+https://github.com/BlitzPythoner
+
+itch.io:
+https://alex-bauknecht.itch.io/ccraft
+
+---
+
+*"Sometimes the best way to learn how a game engine works is to accidentally write one."*
