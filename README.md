@@ -1,6 +1,10 @@
-# CCraft
+########################################################
 
-*A minimalist voxel sandbox game written completely in C.*
+                    C C R A F T
+
+      A voxel sandbox game written completely in C
+
+########################################################
 
 ---
 
