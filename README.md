@@ -111,6 +111,16 @@ Useful if OpenGL drivers are outdated or perform poorly.
 
 ---
 
+## Performance
+
+CCraft is designed with simplicity and efficiency in mind.
+
+Thanks to its lightweight engine and multiple rendering backends (OpenGL and Direct3D 9), the game is capable of running on a wide range of Windows systems, including many older computers that struggle with modern games.
+
+Whether you're playing on a modern gaming PC or experimenting with legacy hardware, CCraft aims to provide a smooth experience whenever possible.
+
+---
+
 ## Building
 
 CCraft is developed on Windows using
