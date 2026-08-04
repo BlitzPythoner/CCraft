@@ -168,4 +168,15 @@ If you downloaded CCraft from the official GitHub repository or itch.io page, yo
 
 Future releases may include code signing once it becomes feasible.
 
+---
+
+## Screenshots
+<img width="1276" height="718" alt="Screenshot 2026-07-29 153533" src="https://github.com/user-attachments/assets/84d40684-ddb3-44d1-92cf-b683d835dd32" />
+<img width="1919" height="1079" alt="Screenshot 2026-07-29 153755" src="https://github.com/user-attachments/assets/d006b640-d25e-46e6-9a80-a3e00d29b140" />
+<img width="1919" height="1079" alt="Screenshot 2026-07-29 153844" src="https://github.com/user-attachments/assets/2b04d499-bd5a-43b3-84a5-9e3173513e67" />
+<img width="1919" height="1079" alt="Screenshot 2026-07-29 154045" src="https://github.com/user-attachments/assets/7df614a1-5e93-4d45-9295-3c5c27c538e0" />
+<img width="1919" height="1079" alt="Screenshot 2026-07-29 153921" src="https://github.com/user-attachments/assets/62779119-ea82-4022-825a-84aecf0dad2b" />
+
+---
+
 *"Sometimes the best way to learn how a game engine works is to accidentally write one."*
