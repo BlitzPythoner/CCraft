@@ -125,9 +125,13 @@ CCraft is developed on Windows using
 
 ## License
 
-All rights reserved.
+CCraft is proprietary software.
 
-You may **not** redistribute, modify, re-upload or sell this project or its assets without permission.
+The game is released under the included **CCRAFT LICENSE**.
+
+The source code is not publicly available.
+
+Please see the `LICENSE` file for the complete license terms.
 
 ---
 
